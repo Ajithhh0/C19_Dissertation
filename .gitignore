@@ -1,0 +1,8 @@
+*.h5
+*.keras
+*.ckpt
+*.pt
+*.pkl
+__pycache__/
+.DS_Store
+*.log
