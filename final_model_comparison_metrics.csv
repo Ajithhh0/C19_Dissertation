@@ -1,0 +1,4 @@
+Model,Accuracy,Sensitivity(Recall),Specificity,MCC,AUC,Precision
+EfficientNetV2,0.9753,0.9792,0.9697,0.9489,0.9981,0.9792
+MobileNetV3,0.8125,0.8947,0.6923,0.5421,0.8582,0.8095
+ConvNeXt-T,0.9091,0.85,1,0.831,0.9885,1
